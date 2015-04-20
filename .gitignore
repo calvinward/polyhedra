@@ -16,3 +16,6 @@
 /Polyhedra/packages/Microsoft.AspNet.WebApi.Core.5.2.3
 /Polyhedra/packages/Microsoft.AspNet.WebApi.WebHost.5.2.3
 /Polyhedra/packages/Newtonsoft.Json.6.0.8
+/Polyhedra/Polyhedra.Web/bower_components
+/Polyhedra/Polyhedra.Web/node_modules
+/Polyhedra/Polyhedra.Web/obj/Release
